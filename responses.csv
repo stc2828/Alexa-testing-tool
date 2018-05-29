@@ -1,0 +1,5 @@
+name,question,response
+WebMD,"Alexa, open WebMD",welcome to WebMD I can tell you about health conditions or even side effects what would you like to know
+WebMD,"Alexa, stop",thank you for using WebMD goodbye
+Mayo Clinic,"Alexa, open Mayo Clinic",welcome back to Mayo first aid what can I help you with
+Mayo Clinic,"Alexa, stop",counseling
