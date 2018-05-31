@@ -126,7 +126,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 			try:
 				text = r.recognize_google(audio)
 				print("Alexa said: " + text)
-				if(help_end - help_start > 12):
+				if(help_end - help_start > 15):
 					row_help.append(text+'   the response is too long')
 				else:
 					row_help.append(text)    	
