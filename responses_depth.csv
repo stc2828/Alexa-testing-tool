@@ -1,7 +1,0 @@
-name,question,response
-webMD,"Alexa, open webMD",welcome to WebMD I can tell you about health conditions drugs or even side effects what would you like to know
-webMD,help,you can ask about different conditions or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know   the response is too long
-webMD,"Alexa, stop",thank you for using WebMD goodbye
-Mayo Clinic,"Alexa, open Mayo Clinic",welcome back to Mayo first aid what can I help you with
-Mayo Clinic,help,Mayo Clinic first head provide self care instructions for dozens of everyday mishaps and other situations for example you can ask how do I treat my baby's fever or tell me about spider bites or help for a burn follow the prompts to learn more about that topic you can also say repeat to repeat what you've heard or say topics to hear available topic   the response is too long
-Mayo Clinic,"Alexa, stop",cancelling
