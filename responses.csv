@@ -1,7 +1,61 @@
 name,question,response
-webMD,"Alexa, open webMD",welcome to WebMD
-webMD,help,what would you like to know
+webMD,"Alexa, open webMD",WebMD health conditions or even side effects what would you like to know
+webMD,help,you can ask about different conditions or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know   the response is too long
 webMD,"Alexa, stop",thank you for using WebMD goodbye
-Mayo Clinic,"Alexa, open Mayo Clinic",welcome back tomato
-Mayo Clinic,help,what can I help you with for example you can ask me about symptoms of stomach flu or how to treat a spider bite
-Mayo Clinic,"Alexa, stop"
+Mayo Clinic,"Alexa, open Mayo Clinic",welcome back to me what can I help you with
+Mayo Clinic,help,Mayo Clinic Health care instructions for how do I treat my baby's fever or tell me about spider bites or help for a burn follow the prompts to learn more about that topic you can also say repeat to repeat what you've heard or say topics to hear available topic   the response is too long
+Mayo Clinic,"Alexa, stop",cancelling
+opening bell,"Alexa, open opening bell",what stock price would you like me to look up
+opening bell,help,I can tell you the stock price of any publicly traded companies such as Apple Tesla Microsoft and many more which would you like
+opening bell,"Alexa, stop",
+anypod,"Alexa, open anypod",anypod At Your Service asked me to play a podcast for example you can say play the dr. Laura program
+anypod,help,ask me to play a podcast for example you can say play the dr. Laura program
+anypod,"Alexa, stop",
+this day in history,"Alexa, open this day in history",welcome back to this day in history from history.com what month and day would you like to hear about
+this day in history,help,the history skill can tell you about events that happened today or any other day in history you can say things like tomorrow or June 6th what month and day would you like to hear about
+this day in history,"Alexa, stop",goodbye
+stop breath and think,"Alexa, open stop breath and think",you were listening to change would you like to resume
+stop breath and think,help,you were listening to change would you like to resume
+stop breath and think,"Alexa, stop",goodbye
+TED talks,"Alexa, open TED talks",welcome back to Ted Talks Elon Musk the Mind behind Tesla SpaceX SolarCity would you like to resume
+TED talks,"Alexa, help",you can say play some talks play something inspiring play Talks by Franz Lansing what would you like to listen to
+TED talks,"Alexa, stop",goodbye
+inspire me,"Alexa, open inspire me",here's some inspirational words from Anthony Hopkins
+inspire me,help,okay whenever you need a bit of inspiration just say Alexa inspire me and I'll play you an inspirational audio clip your favorite Clips play Steve Jobs   the response is too long
+inspire me,stop,having an inspiring day
+Airport Security Line Wait Times,"Alexa, open Airport Security Line Wait Times",here's a skill airport security line wait times created by Arc touch how can I help
+Airport Security Line Wait Times,help,you can ask for wait time for any Airport terminal what can I help you with
+Airport Security Line Wait Times,"Alexa, stop",goodbye
+7-min workout,"Alexa, open 7-min workout",welcome to 7 Minute Workout to continue where you left off say ready otherwise just say start workout
+7-min workout,help,get ready to start your 7 Minute Workout for a healthier life you will perform 12 exercises in 30 second intervals with each exercise focusing on a specific muscle group push yourself as hard as you can   the response is too long
+7-min workout,"Alexa, stop",goodbye
+fitbit,"Alexa, open fitbit",your account is not linked please go to the Alexa companion app and look for the Fitbit account setup card on your home screen
+fitbit,help,
+fitbit,"Alexa, stop",
+uber,"Alexa, open uber",the school requires you to link your Uber account and your permission to use your location to enable it please go to the skills section of the Alexa app and search for Uber
+uber,help,
+uber,"Alexa, stop",
+kayak,"Alexa, open kayak",welcome back what would you like to do
+kayak,help,I can help you find flights booked hotel and help you find a rental car if you don't know where you'd like to go you can ask me where your travel budget can take you you can say things like how much does it cost to fly to San Francisco when will the flight from Los Angeles arrive or how much is a hotel in New York and if you tell me your home airport I'll remember that for future questions what can I help you with   the response is too long
+kayak,"Alexa, stop",thanks for using kayak
+Trainer Tips,"Alexa, open Trainer Tips",welcome Trainor I can help you choose the right team for battle ask me about a type strengths or weaknesses or ask for a trainer tip
+Trainer Tips,help,you can ask me about the strengths or weaknesses of any battle type like fire or steel. Try what's best against fairy types or teach me something new what do you want to know
+Trainer Tips,"Alexa, stop",exiting trainer tips
+campbell's kitchen,"Alexa, open campbell's kitchen",
+campbell's kitchen,help,what kind of recipe are you looking to make today
+campbell's kitchen,"Alexa, stop",okay have a great meal and come back by Campbell's Kitchen soon for more great recipes featuring your favorite brand
+All recipes,"Alexa, open All recipes",recipes you can search for a recipe in your favorites get the recipe of the day or search for a new recipe what would you like to do
+All recipes,help,I sent some more information to your Alexa app would you like to start a new search or search for something in your favorites you can also get your previous recipe hear the recipe of the day or search by ingredient so how can I help   the response is too long
+All recipes,"Alexa, stop",goodbye
+Bartender,"Alexa, open Bartender",welcome back to the bartender would you like to make the Tom Cullen Collins that we were talking about last time
+Bartender,help,you can ask me how to make a drink by saying how do I make a White Russian or find one that uses certain ingredients like something with bourbon
+Bartender,"Alexa, stop",
+Starbucks,"Alexa, open Starbucks",I'm sorry but before I can place your order you have to authorize this skill to help you get started I've added a list of the authorization process in your Alexa app when you're ready come back and I'll be happy to help you place your order
+Starbucks,help,
+Starbucks,"Alexa, stop",
+Domino's Pizza,"Alexa, open Domino's Pizza",to use the Domino's skill please open the Alexa app where you can choose to log into your pizza profile or continue as guest
+Domino's Pizza,help,
+Domino's Pizza,"Alexa, stop",
+Capital One,"Alexa, open Capital One",first you need to finish linking your Capital One account in your Alexa app you'll know you're done when you see a screen that says your Capital one's kill it successfully linked
+Capital One,help,
+Capital One,"Alexa, stop",

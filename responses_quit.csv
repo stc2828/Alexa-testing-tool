@@ -1,0 +1,41 @@
+name,question,response
+webMD,"Alexa, open webMD",welcome to WebMD health conditions or even side effects what would you like to know
+webMD,quit,
+Mayo Clinic,"Alexa, open Mayo Clinic",welcome back to me what can I help you with
+Mayo Clinic,quit,
+opening bell,"Alexa, open opening bell",what stock price would you like me to look up
+opening bell,quit,
+anypod,"Alexa, open anypod",anypod At Your Service asked me to play a podcast for example you can say play the dr. Laura program
+anypod,quit,
+this day in history,"Alexa, open this day in history",welcome to this day in history history.com
+this day in history,quit,
+stop breath and think,"Alexa, open stop breath and think",you were listening to change would you like to do
+stop breath and think,quit,
+TED talks,"Alexa, open TED talks",welcome back to Ted Talks Elon Musk the Mind behind Tesla SpaceX SolarCity would you like to resume
+TED talks,quit,
+Inspire me,"Alexa, open Inspire me",sorry I didn't understand that say it one more time
+Inspire me,quit,
+Airport Security Line Wait Times,"Alexa, open Airport Security Line Wait Times",here's a skill airport security line wait times created by Arc touch how can I help
+Airport Security Line Wait Times,quit,
+7-min workout,"Alexa, open 7-min workout",welcome to 7 Minute Workout to continue where you left off say ready otherwise just say start workout
+7-min workout,quit,
+fitbit,"Alexa, open fitbit",your account is not linked please go to the Alexa companion app and look for the Fitbit account setup hard on your home screen
+fitbit,quit,
+uber,"Alexa, open uber",the school requires you to link your Uber account and your permission to use your location to enable it please go to the skills section of the Alexa app and search for Uber
+uber,quit,
+kayak,"Alexa, open kayak",welcome back what would you like to do
+kayak,quit,
+Trainer Tips,"Alexa, open Trainer Tips",welcome Trainor I can help you choose the right team for battle ask me about a tip
+Trainer Tips,quit,
+campbell's kitchen,"Alexa, open campbell's kitchen",welcome to Campbell's Kitchen and help you get it prepared by walking you through ingredients on cooking stuff for the dishes you select to get started I can offer delicious recipes for dinners side dishes desserts and many other popular
+campbell's kitchen,quit,
+All recipes,"Alexa, open All recipes",you can search for the day or search for a new recipe what would you like to do
+All recipes,quit,
+Bartender,"Alexa, open Bartender",hi welcome back to the bartender would you like to make the Tom Cullen Collins that we were talking about last time
+Bartender,quit,
+Starbucks,"Alexa, open Starbucks",I'm sorry but before I can place your order you have to authorize this skill to help you get started I've added at least to the authorization process in your Alexa app
+Starbucks,quit,
+Domino's Pizza,"Alexa, open Domino's Pizza",to use the Domino's skill please open the Alexa app where you can choose to log into your pizza profile or continue as guest
+Domino's Pizza,quit,
+Capital One,"Alexa, open Capital One",first you need to finish linking your Capital One account in your Alexa app you'll know you're done when you see a screen that says your Capital one's kill it successfully linked
+Capital One,quit,

@@ -35,13 +35,13 @@ for i, microphone_name in enumerate(mic_list):
 
 datas = ['name','question','response']
 
-with open('responses.csv', 'w', newline='') as f:
+with open('responses_quit.csv', 'w', newline='') as f:
 	writer = csv.writer(f)
 	writer.writerow(datas)
  
     # The text that you want to convert to audio
-	for j in ["webMD","Mayo Clinic"]:
-
+	for j in ["webMD","Mayo Clinic", "opening bell", "anypod", "this day in history", "stop breath and think","TED talks", "Inspire me", "Airport Security Line Wait Times", "7-min workout", "fitbit", "uber", "kayak","Trainer Tips","campbell's kitchen","All recipes", "Bartender","Starbucks","Domino's Pizza","Capital One"]:
+	#for j in ["7-min workout"]:
 	# "open"
 		row = []
 		row.append(j)
@@ -72,7 +72,7 @@ with open('responses.csv', 'w', newline='') as f:
 			r.adjust_for_ambient_noise(source)
 			print ("Alexa responses")
     	#listens for the user's input
-			audio = r.listen(source)
+			audio = r.listen(source, phrase_time_limit = 30.0)
     		
 			try:
 				text = r.recognize_google(audio)
@@ -89,64 +89,13 @@ with open('responses.csv', 'w', newline='') as f:
 
 			writer.writerow(row)
 
-	# "help"
-		row_help = []
-		row_help.append(j)
-		mytext = 'help'
-		row_help.append(mytext)
-    # Language in which you want to convert
-		language = 'en'
-     
-    # Passing the text and language to the engine, 
-    # here we have marked slow=False. Which tells 
-    # the module that the converted audio should 
-    # have a high speed
-		myobj = gTTS(text=mytext, lang=language, slow=False)
-     
-    # Saving the converted audio in a mp3 file named
-    # welcome 
-		myobj.save("help.mp3")
-     
-    # Playing the converted file
-    #first speak
-		print (mytext)
-		os.system("mpg321 help.mp3")
-    #then listen
-		with sr.Microphone(device_index = device_id, sample_rate = sample_rate, 
-    						chunk_size = chunk_size) as source:
-    	#wait for a second to let the recognizer adjust the 
-    	#energy threshold based on the surrounding noise level
-			r.adjust_for_ambient_noise(source)
-			print ("Alexa responses")
-    	#listens for the user's input
-			help_start = time.time()
-			audio = r.listen(source)
-			help_end = time.time()
-
-			try:
-				text = r.recognize_google(audio)
-				print("Alexa said: " + text)
-				if(help_end - help_start > 15):
-					row_help.append(text+'   the response is too long')
-				else:
-					row_help.append(text)    	
-    	#error occurs when google could not understand what was said
-    	
-			except sr.UnknownValueError:
-				print("Google Speech Recognition could not understand audio")
-    	
-			except sr.RequestError as e:
-				print("Could not request results from Google Speech Recognition service; {0}".format(e))
-
-			writer.writerow(row_help)
+		#time.sleep(1)
 
 
-
-		time.sleep(1)
 	# "stop"
 		row_stop = []
 		row_stop.append(j)
-		mytext = 'Alexa, stop'
+		mytext = 'quit'
 		row_stop.append(mytext)
     # Language in which you want to convert
 		language = 'en'
