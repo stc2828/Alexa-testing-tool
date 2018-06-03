@@ -221,7 +221,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 					print ("Alexa responses")
     	#listens for the user's input
 					help_start = time.time()
-					audio = r.listen(source)
+					audio = r.listen(source, phrase_time_limit = 20.0)
 					help_end = time.time()
 
 					try:
