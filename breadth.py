@@ -35,13 +35,13 @@ for i, microphone_name in enumerate(mic_list):
 
 datas = ['name','question','response']
 
-with open('responses.csv', 'w', newline='') as f:
+with open('responses_secondtime2.csv', 'w', newline='') as f:
 	writer = csv.writer(f)
 	writer.writerow(datas)
  
     # The text that you want to convert to audio
 	#for j in ["7-min workout", "fitbit", "uber", "kayak","Trainer Tips","campbell's kitchen","All recipes", "Bartender","Starbucks","Domino's Pizza","Capital One"]:
-	for j in ["7-min workout"]:
+	for j in ["Trainer Tips","campbell's kitchen","Trainer Tips","campbell's kitchen"]:
 	# "open"
 		row = []
 		row.append(j)
@@ -94,7 +94,7 @@ with open('responses.csv', 'w', newline='') as f:
 	# "help"
 		row_help = []
 		row_help.append(j)
-		mytext = 'help'
+		mytext = 'Alexa, help'
 		row_help.append(mytext)
     # Language in which you want to convert
 		language = 'en'

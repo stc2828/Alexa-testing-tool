@@ -5,7 +5,7 @@ from pycorenlp import StanfordCoreNLP
 #nlp = StanfordCoreNLP('http://localhost:9000')
 
 #first sparse words
-text = "you can ask about different conditions or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know"
+text = "help ask me to play a podcast for example you can say play the dr. Laura program can I play a podcast for you"
 text = nltk.word_tokenize(text)
 print(text)
 index = []
@@ -31,16 +31,19 @@ subtexts = []
 #print(str(subtexts))
 for j in range(len(index)):
 	#print(j, subtexts)
+	if(len(index_or)!=0):
 
-	if(index[j]<index_or[0]):
-		subtexts.append(" ".join(text[index[j]+1:index_or[0]]))
-	if(index[j]>index_or[0] and index[j]<index_or[-1]):
-		for i in range(len(index_or)):
-			dis = index_or[i]-index[j]
-			if(dis > 0):
-				break
-		subtexts.append(" ".join(text[index[j]+1:index[j]+dis]))
-	elif(index[j]>index_or[-1]):
+		if(index[j]<index_or[0]):
+			subtexts.append(" ".join(text[index[j]+1:index_or[0]]))
+		if(index[j]>index_or[0] and index[j]<index_or[-1]):
+			for i in range(len(index_or)):
+				dis = index_or[i]-index[j]
+				if(dis > 0):
+					break
+			subtexts.append(" ".join(text[index[j]+1:index[j]+dis]))
+		elif(index[j]>index_or[-1]):
+			subtexts.append(" ".join(text[index[j]+1:-1]))
+	else:
 		subtexts.append(" ".join(text[index[j]+1:-1]))
 
 for k in range(len(index_or)):

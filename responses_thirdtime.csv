@@ -1,0 +1,61 @@
+name,question,response
+WebMD,"Alexa, open WebMD",welcome to WebMD I can tell you about health conditions drugs or even side effects what would you like to know
+WebMD,"Alexa, help",you can ask about different conditions drugs or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know
+WebMD,"Alexa, stop",thank you for using goodbye
+anypod,"Alexa, open anypod",anypod At Your Service asked me to play a podcast for example you can say play the dr. Laura program
+anypod,"Alexa, help",ask me to play a podcast for example you can say play the dr. Laura program
+anypod,"Alexa, stop",
+TED talks,"Alexa, open TED talks",welcome back to Ted Talks you can say start playing some talks play a talk by Ken Robinson play a funny talk what would you like to listen to
+TED talks,"Alexa, help",you can say some talks funny find Talks by Anna deavere Smith what would you like to listen to you can say we talk
+TED talks,"Alexa, stop",goodbye
+fitbit,"Alexa, open fitbit",welcome to Fitbit I can tell about your steps exercise sleep and more how can I help you
+fitbit,"Alexa, help",the Fitbit scale can tell you how you're doing towards your activity goals how many steps you've taken and more you can say things like how am I doing today or how many steps or how did I sleep last night what can I help you with
+fitbit,"Alexa, stop",thanks for trying 54 Alexa goodbye
+uber,"Alexa, open uber",first you'll need to set your default location for the Uber skill would you like to use your Uber home address for this
+uber,"Alexa, help",the Uber skill can help you request a ride check your ride status or cancel the ride and ask for a different car
+uber,"Alexa, stop",have a nice day
+kayak,"Alexa, open kayak",welcome back what would you like to do welcome back what would you like to do
+kayak,"Alexa, help",help I can help you find flight booked hotel and help you find a rental car if you don't know where to go
+kayak,"Alexa, stop",thanks for using kayak
+Trainer Tips,"Alexa, open Trainer Tips",welcome Trainor I can help you choose the right team for battle ask me about a type strengths or weaknesses or ask for a trainer tip
+Trainer Tips,"Alexa, help",you can ask me about the strengths or weaknesses of any battle type like fire or steel. Try what's best against fairy types or teach me something new what do you want to know
+Trainer Tips,"Alexa, stop",exiting trainer tips
+campbell's kitchen,"Alexa, open campbell's kitchen",welcome to Campbell's Kitchen what kind of recipe are you looking to make today
+campbell's kitchen,"Alexa, help",help I'd be happy to help this Kill from Campbell's Kitchen allows you to search for recipes you can even filter recipes by the types of dishes you're interested in making or by how much time we have to make them
+campbell's kitchen,"Alexa, stop",have a great meal and come back by Campbell's Kitchen soon for more great recipes featuring your favorite brand
+All recipes,"Alexa, open All recipes",welcome to all recipes you can search for a recipe in your favorites or search for a new recipe
+All recipes,"Alexa, help",I sent some more information to your Alexa app would you like to start a new search or search for something in your favorites you can also get your previous recipe hear the recipe of the day or search by ingredient so how can I help
+All recipes,"Alexa, stop",goodbye
+Bartender,"Alexa, open Bartender",hi I'm the bartender you can ask me for a drink by name or ingredient are you can just say surprise me
+Bartender,"Alexa, help",you can ask me how to make a drink by saying how do I make a White Russian or find one that uses certain ingredients like something with bourbon
+Bartender,"Alexa, stop",okay see you next time
+Starbucks,"Alexa, open Starbucks",I'm sorry but before I can place your order you have to authorize this skill to help you get started I've added a link to the authorization process in your Alexa app
+Starbucks,"Alexa, help",I can help you with specific questions like how do I connect Bluetooth to learn more about what I can do take a look at the things to try section in the Alexa app
+Starbucks,"Alexa, stop",
+Domino's Pizza,"Alexa, open Domino's Pizza",hi welcome to Domino's would you like to place an order or track an order
+Domino's Pizza,"Alexa, help",I can place a new order reorder your easy order or your most recent order or tracking order you can also turn on tracker notifications through the Alexa app how can I help
+Domino's Pizza,"Alexa, stop",okay see you next time goodbye
+Capital One,"Alexa, open Capital One",first you need to finish linking your Capital One account in your Alexa app when you see a screen that says
+Capital One,"Alexa, help",
+Capital One,"Alexa, stop",
+7 minute workout,"Alexa, open 7 minute workout",welcome to 7 Minute Workout when you are ready just say start work out when you are ready to begin
+7 minute workout,"Alexa, help",get ready to start your 7 Minute Workout for a healthier life you will perform 12 exercises in 30 second intervals with each exercise focusing on a specific muscle group push yourself as hard as you can
+7 minute workout,"Alexa, stop",goodbye
+mayo clinic first aid,"Alexa, open mayo clinic first aid",welcome back to me first what can I help you with
+mayo clinic first aid,"Alexa, help",first aid provide self care instructions for dozens of everyday mishaps and other situations for example you can ask how do I treat my baby's fever or tell me about spider bites or help for a burn follow the prompts to learn more about that
+mayo clinic first aid,"Alexa, stop",cancelling
+opening bell,"Alexa, open opening bell",what stock price would you like me to look up a company name like Amazon
+opening bell,"Alexa, help",I can tell you the stock price of any publicly traded companies such as Apple Tesla Microsoft and many more which would you like
+opening bell,"Alexa, stop",okay
+this day in history,"Alexa, open this day in history",welcome back to this day in history from history.com what month and day would you like to hear about
+this day in history,"Alexa, help",the history skill can tell you about events that happened today or any other day in history you can say things like tomorrow or June 6th
+this day in history,"Alexa, stop",goodbye
+Inspire me,"Alexa, open Inspire me",here's some inspirational words from Zlatan Ibrahimovic my mother is
+Inspire me,"Alexa, help",okay whenever you need a bit of inspiration just say Alexa inspire me and I'll play you an inspirational audio clip just ask for the speaker you want by name for example you could say Alexa play
+Inspire me,"Alexa, stop",have an inspirational day please leave inspire me a review in the Alexa app this really helps add more content thank you
+stop breathe think,"Alexa, open stop breathe think",welcome back to guided meditations by stop breathe and think today's meditation is relax ground and clear say play meditation to begin
+stop breathe think,"Alexa, help",say play meditation to begin today's meditation welcome to stop and think you can say
+stop breathe think,"Alexa, stop",
+Airport Security Line Wait Times,"Alexa, open Airport Security Line Wait Times",how can I help you can ask for wait times at security
+Airport Security Line Wait Times,"Alexa, help",you can ask for wait times for any Airport terminal what can I help you with what can I help you with
+Airport Security Line Wait Times,"Alexa, stop",goodbye

@@ -1,0 +1,61 @@
+name,question,response
+WebMD,"Alexa, open WebMD",welcome to WebMD I can tell you about health conditions drugs or even side effects what would you like to know
+WebMD,"Alexa, what did I ask last time",I'm sorry I couldn't find an answer to your question I'm learning more everyday so please try again soon is there something else you'd like to know is there something else you'd like to know
+WebMD,"Alexa, stop",thank you for goodbye
+anypod,"Alexa, open anypod",iPod At Your Service would you like to resume playing The West Wing weekly
+anypod,"Alexa, what did I ask last time",sorry I didn't understand the date you asked for for example dated June 12th can I play a podcast for you
+anypod,"Alexa, stop"
+TED talks,"Alexa, open TED talks",welcome back to Ted Talks you were listening to take back your city with paint would you like to resume
+TED talks,"Alexa, what did I ask last time",Alexa I'm sorry I didn't understand that say it one more time you can say start playing some talks
+TED talks,"Alexa, stop",goodbye
+fitbit,"Alexa, open fitbit",welcome to Fitbit I can tell about your steps exercise sleep and more how can I help you
+fitbit,"Alexa, what did I ask last time",I cannot access the Sleep logs from your Fitbit profile try disabling and enabling the Fitbit skill in your Alexa companion app to adjust your permissions choices
+fitbit,"Alexa, stop"
+uber,"Alexa, open uber",first you'll need to set your default location for the Uber skill would you like to use your Uber home address for this
+uber,"Alexa, what did I ask last time",Uber skill can help you request a ride check your ride status or cancel the ride and Rex will be requested by default but you can ask for a different car type if you'd like try saying things like what can I do for you
+uber,"Alexa, stop",have a nice day
+kayak,"Alexa, open kayak",welcome back what would you like to do welcome back what would you like to do
+kayak,"Alexa, what did I ask last time",I can help you find flights hotels and cars you can also ask me to track a flight what would you like to do would you like to track a flight find out where you can travel
+kayak,"Alexa, stop",thanks for using kayak
+Trainer Tips,"Alexa, open Trainer Tips",welcome Trainor I can help you choose the right team for battle ask me about a type strengths or weaknesses or ask for a trainer tip
+Trainer Tips,"Alexa, what did I ask last time",sorry I didn't recognize that type use one of the 18 battle types try what's weak against fire what do you want to know try asking about the
+Trainer Tips,"Alexa, stop",exiting trainer tips
+campbell's kitchen,"Alexa, open campbell's kitchen",welcome to Campbell's Kitchen what kind of recipe are you looking to make today
+campbell's kitchen,"Alexa, what did I ask last time",add airtime conundrum is no match for the campbellskitchen skill you tell us what you're interested in and will help you find a delicious recipe you'll be given a list of recipes that match your request and be able to listen to ingredients and steps for the recipe
+campbell's kitchen,"Alexa, stop",have a great meal and come back by Campbell's Kitchen soon for more great recipes featuring your favorite brand
+All recipes,"Alexa, open All recipes",welcome back to all recipes you are a try sauce would you like to continue would you like
+All recipes,"Alexa, what did I ask last time",sorry I didn't get that what do you want to search for what do you want to search for
+All recipes,"Alexa, stop"
+Bartender,"Alexa, open Bartender",hi welcome back to the bartender would you like to make the White Russian that we were talking about last time
+Bartender,"Alexa, what did I ask last time",sorry I'm not sure Alexa bartender welcome back to the bartender would you like to make
+Bartender,"Alexa, stop",okay see you next time
+Starbucks,"Alexa, open Starbucks",I'm sorry but before I can place your order you have to authorize this skill to help you get started I've added a link to the authorization process in your Alexa app
+Starbucks,"Alexa, what did I ask last time",sorry I'm not sure
+Starbucks,"Alexa, stop"
+Domino's Pizza,"Alexa, open Domino's Pizza",hi welcome to Domino's would you like to place an order or track an order
+Domino's Pizza,"Alexa, what did I ask last time",I'm sorry I didn't get that can you please repeat what you said I'm sorry I didn't get that can you please repeat
+Domino's Pizza,"Alexa, stop",okay see you next time goodbye
+Capital One,"Alexa, open Capital One",first you need to finish linking your Capital One account in your Alexa app when you see a screen that says your Capital One skill is successfully link
+Capital One,"Alexa, what did I ask last time",sorry I don't know that
+Capital One,"Alexa, stop"
+7 minute workout,"Alexa, open 7 minute workout",welcome to 7 Minute Workout to continue where you last left off say ready otherwise just say start workout
+7 minute workout,"Alexa, what did I ask last time",sorry I didn't understand what you were trying to say to start a workout say start workout when you are ready to begin just see ready to learn more about any exercise
+7 minute workout,"Alexa, stop",goodbye
+mayo clinic first aid,"Alexa, open mayo clinic first aid",welcome back to me first what can I help you with what can I help you with
+mayo clinic first aid,"Alexa, what did I ask last time",if you suspect an emergency call 911 or your local emergency help number immediately I couldn't find the topic what did I ask last time if I misunderstood you please repeat the first topic otherwise you can ask me about another first date
+mayo clinic first aid,"Alexa, stop",cancelling
+opening bell,"Alexa, open opening bell",what stock price would you like me to look up a company name like Amazon
+opening bell,"Alexa, what did I ask last time",sorry I can't find information about what did I ask last time
+opening bell,"Alexa, stop"
+this day in history,"Alexa, open this day in history",welcome back to this day in history from history.com what month and day would you like to hear about
+this day in history,"Alexa, what did I ask last time",sorry the history skill can't help you with that yet what day in history would you like to hear about you like to hear about
+this day in history,"Alexa, stop",goodbye
+Inspire me,"Alexa, open Inspire me",here's some inspirational words from Michelle Obama every moment in this White House
+Inspire me,"Alexa, what did I ask last time",here's some inspirational words from Eric Thomas
+Inspire me,"Alexa, stop",have an inspirational day
+stop breathe think,"Alexa, open stop breathe think",you would listen to breathing chill would you like to resume you can say yes to resume or no
+stop breathe think,"Alexa, what did I ask last time",resuming freeze and chill new 19 seconds into the meditation the cool thing about mindful breathing is that your breath is a tool you can always
+stop breathe think,"Alexa, stop"
+Airport Security Line Wait Times,"Alexa, open Airport Security Line Wait Times",how can I help you can ask for wait times at security for over
+Airport Security Line Wait Times,"Alexa, what did I ask last time",I'm sorry I don't understand which airport you want I can find airports by code by City
+Airport Security Line Wait Times,"Alexa, stop",goodbye

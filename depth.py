@@ -73,7 +73,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 			r.adjust_for_ambient_noise(source)
 			print ("Alexa responses")
     	#listens for the user's input
-			audio = r.listen(source)
+			audio = r.listen(source, phrase_time_limit = 30.0)
     		
 			try:
 				text = r.recognize_google(audio)
@@ -121,7 +121,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 			print ("Alexa responses")
     	#listens for the user's input
 			help_start = time.time()
-			audio = r.listen(source)
+			audio = r.listen(source, phrase_time_limit = 60.0)
 			help_end = time.time()
 
 			try:
@@ -193,7 +193,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 				print(t)
 				row_command = []
 				row_command.append(skill)
-				mytext = t
+				mytext = "Alexa, " + t
 				row_command.append(mytext)
     # Language in which you want to convert
 				language = 'en'
@@ -221,7 +221,7 @@ with open('responses_depth.csv', 'w', newline='') as f:
 					print ("Alexa responses")
     	#listens for the user's input
 					help_start = time.time()
-					audio = r.listen(source, phrase_time_limit = 20.0)
+					audio = r.listen(source, phrase_time_limit = 40.0)
 					help_end = time.time()
 
 					try:
