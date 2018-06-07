@@ -1,45 +1,45 @@
 name,question,response
 WebMD,"Alexa, open WebMD",here's a skill WebMD created by WebMD Health Corporation welcome to WebMD I can tell you about health conditions drugs or even side effects what would you like to know
-WebMD,help,you can ask about different conditions drugs or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know
+WebMD,"Alexa, help",you can ask about different conditions drugs or side effects try asking things like what is diabetes or what are the side effects of ibuprofen you can also say stop if you're done what would you like to know
 WebMD,"Alexa, stop",thank you for using WebMD goodbye
 anypod,"Alexa, open anypod",here's a skill anypod created by Harrison digital media any pod contains mature content that may not be suitable for all ages would you like to continue
-anypod,help,
+anypod,"Alexa, help",
 anypod,"Alexa, stop",
 TED talks,"Alexa, open TED talks",here's a skill TED Talks created by Ted conferences welcome back to Ted Talks you can say begin playing some talks search for a talk by Majora Carter play a talk that's funny what would you like to
-TED talks,help,you can say start playing some talks search for a talk given by Joshua Prince ramus play a talk that's funny what would you like to listen to you can say start playing some talks
+TED talks,"Alexa, help",you can say start playing some talks search for a talk given by Joshua Prince ramus play a talk that's funny what would you like to listen to you can say start playing some talks
 TED talks,"Alexa, stop",goodbye
 7 minute workout,"Alexa, open 7 minute workout",here's a skill 7 Minute Workout created by targee welcome to 7 Minute Workout when you are ready just say start workout
 7 minute workout,"Alexa, help",getting ready to start your 7 Minute Workout for a healthier life you will perform swelled exercises in 30 second intervals with each exercise focusing on a specific muscle group push yourself as hard as you can but be patient with your progress and focus on form over Speed 2
 7 minute workout,"Alexa, stop",goodbye
 fitbit,"Alexa, open fitbit",here's a skill created by Fitbit Incorporated your account is not linked please go to the Alexa companion app and look for the Fitbit account setup card on your home screen
-fitbit,help,
+fitbit,"Alexa, help",
 fitbit,"Alexa, stop",
 uber,"Alexa, open uber",here's a skill created by Uber Technologies Incorporated requires you to link your account and your permission to use your location to enable it please go to the skills section of the Alexa app
-uber,help,
+uber,"Alexa, help",
 uber,"Alexa, stop",
 kayak,"Alexa, open kayak",here's a skill kayak created by kayak welcome to kayak you can ask me for prices of flights hotels and cars book hotels track flight or just ask
-kayak,help,help you help I can help you find flight booked hotel and help you find a rental car if you don't know where you'd like to go you can ask me where your travel budget can take you you can say things like how much does it cost to fly to San Francisco
+kayak,"Alexa, help",help you help I can help you find flight booked hotel and help you find a rental car if you don't know where you'd like to go you can ask me where your travel budget can take you you can say things like how much does it cost to fly to San Francisco
 kayak,"Alexa, stop",thanks for using kayak
 Trainer Tips,"Alexa, open Trainer Tips",here's a skill trainer tips created by idea Platz LLC welcome Trainor I can help you choose the right team for battle ask me about a type strengths or weaknesses or ask for a trainer tip
-Trainer Tips,help,you can ask me about the strengths or weaknesses of any battle type like fire or steel. Try what's best against fairy types or teach me something new what do you want to know ask me about a types
+Trainer Tips,"Alexa, help",you can ask me about the strengths or weaknesses of any battle type like fire or steel. Try what's best against fairy types or teach me something new what do you want to know ask me about a types
 Trainer Tips,"Alexa, stop",exiting trainer tips
 campbell's kitchen,"Alexa, open campbell's kitchen",here's a skill campbellskitchen created by campbellskitchen welcome to campbellskitchen what kind of recipe are you looking to make today
 campbell's kitchen,"Alexa, help",help I'd be happy to help this Kill from Campbell's Kitchen allows you to search for recipes you can even filter recipes by the types of dishes you're interested in making or by how much time you have to make them
 campbell's kitchen,"Alexa, stop",have a great meal and come back by Campbell's Kitchen soon for more great recipes featuring your favorite brand
 All recipes,"Alexa, open All recipes",here's a skill all recipes created by Allrecipes welcome back to all the recipes you can search in your favorites or ask for a recipe by ingredients what can I help you make
-All recipes,help,sorry I didn't get that what do you want to search for what do you want to search for
+All recipes,"Alexa, help",sorry I didn't get that what do you want to search for what do you want to search for
 All recipes,"Alexa, stop",
 Bartender,"Alexa, open Bartender",here's a skill the bartender created by pylon I the bartender contains mature content that may not be suitable for all ages would you like to continue
-Bartender,help,I can help you with specific questions like how do I connect Bluetooth to learn more about what I can do take a look at the things to try section in the Alexa app
+Bartender,"Alexa, help",I can help you with specific questions like how do I connect Bluetooth to learn more about what I can do take a look at the things to try section in the Alexa app
 Bartender,"Alexa, stop",
 Starbucks,"Alexa, open Starbucks",here's a skill Starbucks we order created by Starbucks Coffee Company I'm sorry but before I can place your order you have to authorize this skill to help you get started I've added a link to the authorization process
-Starbucks,help,
+Starbucks,"Alexa, help",
 Starbucks,"Alexa, stop",
 dominos,"Alexa, open dominos",here's a skill Domino's created by Domino's Pizza LLC to use the Domino's skill please open the Alexa app where you can choose to log into your pizza profile or continue as guest
 dominos,"Alexa, help",I can help you with specific questions like how do I connect Bluetooth to learn more about what I can do take a look at the things to try section in the Alexa app
 dominos,"Alexa, stop",
 Capital One,"Alexa, open Capital One",here's a skill Capital One created by Capital One Services LLC first you need to finish linking your Capital One account in your Alexa app you'll know you're done when you see a screen that says
-Capital One,help,
+Capital One,"Alexa, help",
 Capital One,"Alexa, stop",
 mayo clinic first aid,"Alexa, open mayo clinic first aid",welcome to Mayo Clinic first aid Mayo Clinic first head provides health care instructions for dozens of everyday mishaps and other situations for example you can ask how do I treat my babies
 mayo clinic first aid,"Alexa, help",Mayo Clinic first head provide self care instructions for dozens of everyday mishaps and other situations for example you can ask how do I treat my baby's fever or tell me about spider bite or help for a burn follow the prompts to learn more
